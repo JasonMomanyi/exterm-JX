@@ -1,7 +1,7 @@
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Guru" height="300" src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/K.jpg">
-    <h1 align="center">GURU-BOT 2.O</h1>
+    <img alt="https://telegra.ph/file/4f5eb47c4211fd637ebe0.png">
+    <h1 align="center">exterm-JX 2.O</h1>
   </a>
 </p>
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 ####  
-GURU-BOT- Simple Multi Device whatsapp bot.
+exterm-JX- Quiet to set the rules.
 
 ***
 
