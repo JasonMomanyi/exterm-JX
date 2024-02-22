@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: exterm-JX
+    env: docker
+    region: Frankfurt
+    plan: free
