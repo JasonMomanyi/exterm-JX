@@ -1,8 +1,8 @@
 {
-  "name": "whatsapp-bot (hawk-X)",
+  "name": "whatsapp-bot (exterm-JX)",
   "description": "Whatsapp bot.",
   "keywords": ["whatsapp bot"],
-  "repository": "https://github.com/Lgufy/GURU-BOT",
+  "repository": "https://github.com/JasonMomanyi/exterm-jx",
   "stack": "container",
   "env": {
     "DATABASE_URL": {
@@ -43,7 +43,7 @@
     "autoRead": {
       "description": "make it true if you want bot to read messages",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
