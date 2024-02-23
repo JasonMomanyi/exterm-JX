@@ -1,7 +1,6 @@
 
 
 import chalk from 'chalk'
-import { fileURLToPath } from 'url'
 import fs from 'fs'
 import fetch from 'node-fetch'
 import axios from 'axios'
@@ -75,9 +74,4 @@ global.xmoji = '🔥'
 global.multiplier = 69 
 global.maxwarn = '3' 
 
-let file = fileURLToPath(import.meta.url)
-watchFile(file, () => {
-  unwatchFile(file)
-  console.log(chalk.redBright("Update 'config.js'"))
-  import(`${file}?update=${Date.now()}`)
 })
