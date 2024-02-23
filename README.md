@@ -5,14 +5,14 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Guru322"><img title="Author" src="https://img.shields.io/badge/GURU-BOT-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://github.com/JasonMomanyi/exterm-jx"><img title="Author" src="https://img.shields.io/badge/-black?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Guru322?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Guru322?label=Followers&style=social"></a>
-<a href="https://github.com/Guru322/GURU-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Guru322/GURU-BOT?&style=social"></a>
-<a href="https://github.com/Guru322/GURU-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Guru322/GURU-BOT?style=social"></a>
-<a href="https://github.com/Guru322/GURU-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Guru322/GURU-BOT?label=Watching&style=social"></a>
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT.svg?type=shield"/></a>
+<a href="https://github.com/JasonMomanyi/exterm-jx?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/JasonMomanyi?label=Followers&style=social"></a>
+<a href="https://github.com/JasonMomanyi/exterm-jx/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/\\jasonMomanyi/exterm-jx?&style=social"></a>
+<a href="https://github.com/JasonMomanyi/exterm-jx/network/members"><img title="Fork" src="https://img.shields.io/github/forks/JasonMomanyi/exterm-jx?style=social"></a>
+<a href="https://github.com/JasonMomanyi/exterm-jx/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/JasonMomanyi/exterm-jx?label=Watching&style=social"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FJasonMomanyi%2Fexterm-jx?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FJasonMomanyi%2Fexterm-jx.svg?type=shield"/></a>
 </p>
 
 ####  
@@ -24,7 +24,7 @@ exterm-JX- Quiet to set the rules.
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Guru322/GURU-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='hhttps://github.com/JasonMomanyi/exterm-JX/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -51,7 +51,7 @@ exterm-JX- Quiet to set the rules.
 
 3. Now Deploy
     <br>
-<p align="center"><a href="https://guru-bot-deploy.vercel.app"> <img src="https://img.shields.io/badge/Heroku%20Deploy-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://https://exterm-jx.vercel.app"> <img src="https://img.shields.io/badge/Heroku%20Deploy-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 #### DEPLOY TO KOYEB
 
@@ -104,7 +104,7 @@ exterm-JX- Quiet to set the rules.
 
 2. Now Deploy
     <br>
-<p align="center"><a href="https://repl.it/github/Guru322/GURU-BOT"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://repl.it/github/JasonMomanyi/exterm-JX"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
  
  ## 🤩 Support
@@ -123,15 +123,12 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img a
 
 
 ## `Main Dev` 
-<a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="250" height="250" alt="Guru322"/></a>
+<a href="https://github.com/JasonMomanyi"><img src="https://github.com/JasonMomanyi.png" width="250" height="250" alt="JasonMomanyi"/></a>
   
-`GURU-BOT - By Guru322`
+`exterm-JX by Jason  Momanyi`
 
-### CONTRIBUTORS
-<a href="https://github.com/IndraTensei"><img src="https://github.com/IndraTensei.png" width="200" height="200" alt="Ash"/></a>
-<a href="https://github.com/Amrit9304"><img src="https://github.com/Amrit9304.png" width="200" height="200" alt="Amrit"/></a>
-<a href="https://github.com/Ghost7798"><img src="https://github.com/Ghost7798.png" width="200" height="200" alt="Ghost7798"/></a>
-<a href="https://github.com/Kai0071"><img src="https://github.com/Kai0071.png" width="200" height="200" alt="Kai"/></a>
+
+
 
 <h2 align="center">  Reminder
 </h2>
@@ -148,10 +145,8 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img a
 ## 
 - Not For Sale
 - If A plugin's code is obfuscated , You don't have permission to edit it in any form 
-- Don't Forget to Give Credits If you are using or Reuploading My Plugins/files
+- ALL MY CREDITS TO @Guru ka gatha, owner guru bot
 - Have A Good Day Ahead
 
 
 
-## License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT?ref=badge_large)
