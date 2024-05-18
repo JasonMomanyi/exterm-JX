@@ -15,9 +15,7 @@
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FJasonMomanyi%2Fexterm-jx?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FJasonMomanyi%2Fexterm-jx.svg?type=shield"/></a>
 </p>
 
-####  
-exterm-JX- Quiet to set the rules.
-
+#### 
 ***
 
 #### SETUP
